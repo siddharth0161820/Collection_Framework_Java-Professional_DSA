@@ -1,0 +1,6 @@
+#HashSet
+1> In a Hashset the insertion and the deletion takes constant time
+ (or average complexity is constant).
+
+2> No order is followed here and elements are not sorted here...
+

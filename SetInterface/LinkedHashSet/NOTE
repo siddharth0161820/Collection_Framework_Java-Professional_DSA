@@ -1,0 +1,6 @@
+#LinkedHashSet...
+
+HashSet Uses:---
+// Whenever we need first insertion & first removal of elements than Hashset comes into the picture.
+
+//QUESTION:----WHAT IF WE WANT TO MAINTAIN THE INSERTION ORDER OF A HASHSET--USE LINKEDHASHSET<E>

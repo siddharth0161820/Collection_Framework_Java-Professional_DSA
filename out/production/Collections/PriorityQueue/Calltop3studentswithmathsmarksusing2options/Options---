@@ -1,0 +1,7 @@
+As we saw error popped as Student class cant be cast to class java.lang.comparable
+
+So,what next ?
+How will priorityQueue provide me the  top3 student on the basis of highest marks in maths
+There are 2 options
+    ----5.1> comparable Interface
+    -----5.2> comparator Interface
